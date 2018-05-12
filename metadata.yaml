@@ -1,10 +1,16 @@
 _repo: The-Romance-of-the-Microscope-An-interesting-description-of-its-uses-in-all-branches-of-scien__49505
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49505-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Ealand, C. A.
     gutenberg_agent_id: '45374'
     url: http://www.gutenberg.org/2009/agents/45374
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49505#The-Romance-of-the-Microscope-An-interesting-description-of-its-uses-in-all-branches-of-scien_
 gutenberg_issued: '2015-07-21'
 gutenberg_type: Text
 identifiers:
